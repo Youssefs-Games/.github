@@ -1,7 +1,7 @@
-[Youssef]: ../Youssef.jpg
-[@Youssefs-Games]: https://github.com/Youssefs-Games "_blank"
-[@yoyomonem]: https://github.com/yoyomonem "_blank"
-[@mandomonem]: https://github.com/mandomonem "_blank"
+[Youssef]: https://raw.githubusercontent.com/Youssefs-Games/.github/main/Youssef.jpg
+[@Youssefs-Games]: https://github.com/Youssefs-Games "@Youssefs-Games"
+[@yoyomonem]: https://github.com/yoyomonem "@yoyomonem"
+[@mandomonem]: https://github.com/mandomonem "@mandomonem"
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Youssef]][@Youssefs-Games]
 
 # Youssef's Games ([@Youssefs-Games])
