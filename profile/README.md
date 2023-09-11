@@ -1,4 +1,4 @@
-[Youssef]: ./Youssef.jpg
+[Youssef]: ../Youssef.jpg
 [github.com/Youssefs-Games]: https://github.com/Youssefs-Games "_blank"
 [@yoyomonem]: https://github.com/yoyomonem "_blank"
 [@mandomonem]: https://github.com/mandomonem "_blank"
